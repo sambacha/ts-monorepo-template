@@ -36,7 +36,7 @@
     "watch:ts": "tsc -b -w"
   },
   "devDependencies": {
-    "doctoc": "~1.4.0",
+    "doctoc": "~2.0.0",
     "eslint": "~7.12.0",
     "lerna": "~3.22.0",
     "async-child-process": "~1.1.1",
