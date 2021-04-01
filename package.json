@@ -43,7 +43,7 @@
     "bundlewatch": "~0.2.1",
     "coveralls": "~3.0.0",
     "ganache-cli": "6.8.0-istanbul.0",
-    "lcov-result-merger": "~3.0.0",
+    "lcov-result-merger": "~3.1.0",
     "npm-run-all": "~4.1.2",
     "prettier": "~1.16.3",
     "source-map-support": "~0.5.6",
